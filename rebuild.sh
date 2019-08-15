@@ -1,6 +1,6 @@
 #! /usr/bin/bash
 
-PROJDIR="/c/Development/cloud-iac-development/github-feature-iac/"
+PROJDIR="/c/Development/cloud-iac-development/term_cloud-iac/"
 
 remove_project_files() {
     removal=("config" "scripts" "templates" "cf-pipeline" ".gitignore" "assetinfo.json" "cloud-iac.log")

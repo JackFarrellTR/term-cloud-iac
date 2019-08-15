@@ -1,6 +1,6 @@
 accounts:
 - '987654321012'
-archive_name: term_cloud-iac/dev/dryrun/config.zip
+archive_name: term-cloud-iac/dev/dryrun/config.zip
 asset_insight_id: '204503'
 deployment_engine_version: 1.3.0
 environment_order:
@@ -9,10 +9,10 @@ environment_order:
 financial_identifier: '66497'
 github_branch: master
 github_owner: jack-farrell28
-github_repo: term_cloud-iac
+github_repo: term-cloud-iac
 log_retention: 90
-project_code: a204503-service-term_cloud-iac
-project_name: term_cloud-iac
+project_code: a204503-service-term-cloud-iac
+project_name: term-cloud-iac
 region: us-east-1
 resource_owner: Jack.Farrell@thomsonreuters.com
 service_name: service
