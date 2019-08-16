@@ -1,9 +1,0 @@
-delete_access_iam_roles:
-- a204503-PowerUser2
-dryrun_enabled: true
-environment_type: DEVELOPMENT
-iam_role: arn:aws:iam::012345678987:role/service-role/a000000-project-code-deploy
-notification_emails:
-- Jack.Farrell@thomsonreuters.com
-stage_order:
-- infra
